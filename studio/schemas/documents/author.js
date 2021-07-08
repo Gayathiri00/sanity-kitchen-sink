@@ -1,7 +1,7 @@
 export default {
   name: 'author',
   type: 'document',
-  title: 'yuvasree',
+  title: 'raghu',
   fields: [
     {
       name: 'name',
